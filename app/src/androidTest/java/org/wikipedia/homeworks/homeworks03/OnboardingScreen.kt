@@ -32,6 +32,8 @@ val secondaryTextView = listOf(
     "Class" to "LinarLaout",
     "Id" to "secondaryTextView"
 )
+
+
 val buttonLanguage = listOf(
     "Class" to "addLanguageButton",
     "Id" to "languageListContainer",
